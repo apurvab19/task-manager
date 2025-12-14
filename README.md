@@ -131,3 +131,11 @@ Supabase session persistence is used instead of custom “remember me” logic.
 UI classes and styling were kept consistent to support external design systems.
 Focus was on building a functional MVP first.
 SvelteKit’s reactivity is used for efficient state updates.
+
+### Screenshots
+<img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/a7f76ac5-57d7-4d49-ae1c-b8b4e4f13dd6" />
+
+<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/3386e272-1809-4797-b804-6b59dbbeea3a" />
+
+<img width="1893" height="932" alt="image" src="https://github.com/user-attachments/assets/6a663fdd-366a-4954-b35e-3347e16de308" />
+
